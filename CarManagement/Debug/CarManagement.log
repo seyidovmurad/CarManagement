@@ -1,0 +1,4 @@
+﻿  CarManagement.cpp
+C:\Users\Murad\source\repos\CarManagement\CarManagement\CarManagement.cpp(18,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Murad\source\repos\CarManagement\CarManagement\CarManagement.cpp(21,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CarManagement.vcxproj -> C:\Users\Murad\source\repos\CarManagement\Debug\CarManagement.exe
